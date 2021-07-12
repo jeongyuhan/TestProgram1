@@ -1,1 +1,4 @@
-# TestProgram1
+# 수정한 부분
+1. lombok 디펜던시를 추가하고 lombok을 설치해준다.
+
+
